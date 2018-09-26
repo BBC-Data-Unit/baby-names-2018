@@ -6,10 +6,9 @@ In September 2018 **Dan Wainwright** [reported on the latest statistics on names
 
 ## Get the data
 
-* ONS: [Baby names for girls in England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls)
-  * XLS file: [Girls names 2017](https://github.com/BBC-Data-Unit/baby-names-2018/blob/master/2017girlsnames.xls)
-* ONS: [Baby names for boys in England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsboys)
-  * XLS file: [Boys names 2017](https://github.com/BBC-Data-Unit/baby-names-2018/blob/master/2017boysnames.xls)
+* ONS: [Baby names for girls in England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls) - XLS file (local copy): [Girls names 2017](https://github.com/BBC-Data-Unit/baby-names-2018/blob/master/2017girlsnames.xls)
+* ONS: [Baby names for boys in England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsboys) - XLS file (copy): [Boys names 2017](https://github.com/BBC-Data-Unit/baby-names-2018/blob/master/2017boysnames.xls)
+* ONS: [Top baby names by local authority, England and Wales, 2017](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/adhocs/009009topbabynamesbylocalauthorityenglandandwales2017) - XLS file (copy): [Top baby names by local authority, England and Wales, 2017](https://github.com/BBC-Data-Unit/baby-names-2018/blob/master/adhocforinteractivebabynamemapsv2.xls)
 
 ## Visualisation and interactivity
 
