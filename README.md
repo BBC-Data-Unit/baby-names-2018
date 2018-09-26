@@ -2,7 +2,7 @@
 
 ![](https://ichef.bbci.co.uk/news/624/cpsprodpb/B0E2/production/_103528254_optimised-up10-nc.png)
 
-In September 2018 **Dan Wainwright** [reported on the latest statistics on names given to babies in 2017](https://www.bbc.co.uk/news/uk-england-45559619). 
+In September 2018 **Dan Wainwright** [reported on the latest statistics on names given to babies in 2017](https://www.bbc.co.uk/news/uk-england-45559619). Results were based on names given from an analysis of 679,106 babies born in 2017 by the Office for National Statistics (ONS).
 
 ## Get the data
 
@@ -18,6 +18,11 @@ Interactivity was added to the piece thanks to further data work by Will Dahlgre
 * Widget: Select an area to see the most popular names in that area
 * Multiple line chart: Most upward trending names since 2007
 * Multiple line chart: Most downward trending names since 2007
+
+## Quotes and interviews
+
+* Nick Stripe, the Office for National Statistics (ONS)
+* Sarah-Jane Ljungstrom, Channelmum.com
 
 ## Related repos 
 
