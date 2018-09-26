@@ -7,6 +7,9 @@ In September 2018 **Dan Wainwright** [reported on the latest statistics on names
 ## Get the data
 
 * ONS: [Baby names for girls in England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsgirls)
+  * XLS file: [Girls names 2017](https://github.com/BBC-Data-Unit/baby-names-2018/blob/master/2017girlsnames.xls)
+* ONS: [Baby names for boys in England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/babynamesenglandandwalesbabynamesstatisticsboys)
+  * XLS file: [Boys names 2017](https://github.com/BBC-Data-Unit/baby-names-2018/blob/master/2017boysnames.xls)
 
 ## Visualisation and interactivity
 
