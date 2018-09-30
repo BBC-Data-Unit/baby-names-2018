@@ -2,7 +2,9 @@
 
 ![](https://ichef.bbci.co.uk/news/624/cpsprodpb/B0E2/production/_103528254_optimised-up10-nc.png)
 
-In September 2018 the data unit produced two stories based on the latest statistics on names given to babies in 2017: **Dan Wainwright** [reported on the new entries in the top 100](https://www.bbc.co.uk/news/uk-england-45559619), while **Jennifer Meierhans** and **Rob England** [looked at names that had fallen out of favour](https://www.bbc.co.uk/news/uk-england-45601442). Results were based on names given from an analysis of 679,106 babies born in 2017 by the Office for National Statistics (ONS).
+In September 2018 the data unit produced three stories based on the latest statistics on names given to babies in 2017: **Dan Wainwright** [reported on the new entries in the top 100](https://www.bbc.co.uk/news/uk-england-45559619), while **Jennifer Meierhans** and **Rob England** [looked at names that had fallen out of favour](https://www.bbc.co.uk/news/uk-england-45601442). Results were based on names given from an analysis of 679,106 babies born in 2017 by the Office for National Statistics (ONS).
+
+A third article, [Baby names: Is Muhammad the most popular?](https://www.bbc.co.uk/news/uk-england-45638806), also by **Jennifer Meierhans** and **Rob England** was written 5 days later in response to comments by users of the BBC website, including "Which is the most gender balanced name?" and "When was Doris a popular girls' name?"
 
 ## Get the data
 
